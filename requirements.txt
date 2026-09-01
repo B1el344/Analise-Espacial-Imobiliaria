@@ -1,0 +1,11 @@
+streamlit
+geopandas
+pandas
+numpy
+folium
+streamlit-folium
+pydeck
+joblib
+geopy
+branca
+xgboost
