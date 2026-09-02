@@ -19,7 +19,7 @@ bairros_mapa, df_imoveis_lisa = carregar_dados_espaciais()
 st.title("📍 Inteligência de Mercado Imobiliário - Santa Maria, RS")
 st.markdown(
     "Explore como as características e a localização afetam a precificação "
-    "dos imóveis à venda na cidade."
+    "dos imóveis residenciais à venda na cidade."
 )
 
 aba1, aba2, aba3, aba4, aba5 = st.tabs(
